@@ -1,5 +1,8 @@
 # titanic-survival-prediction
 titanic survival prediction using machine learning (tool- Sklearn)
+
+check my blog to see how it is setuped/ https://medium.com/@akhilkrishnar4321/titanic-survival-prediction-using-machine-learning-41aa2bf8a6b8
+
 🚢 Titanic Machine Learning Project – Summary
 This project involves predicting passenger survival on the Titanic using machine learning techniques. The goal is to build models that can classify whether a passenger survived or not based on features such as age, gender, ticket class, etc.
 
